@@ -1,0 +1,15 @@
+{
+    "name": "php-rest",
+    "description": "Small test of rest on php",
+    "authors": [
+        {
+            "name": "Arthur Vieira M. Lucena",
+            "email": "arthurvmx5@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.8",
+        "kevinlebrun/slug.php": "1.*"
+    }
+}
+
